@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chandery
-- 👀 I’m interested in OI
-- 🌱 I’m currently learning pyhton
+- 👀 I’m interested in computer
+- 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
