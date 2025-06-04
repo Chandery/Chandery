@@ -18,13 +18,15 @@ Hopping to publish and document my research trajectory on GitHub🎞️, as well
 - <img src="https://imgs-chan-1329526870.cos.ap-beijing.myqcloud.com/Image%20240815616%20480x480.gif" width="40" align="center"> You are cordially invited to visit my website: www.chandery.chat
 
 
-### Projects that are currently under maintenance (Continuously updating)
+### Projects that are currently under maintenance
 
 - [Generation Framework for Image Synthesis](https://github.com/Chandery/Generation-Framework-For-Image-Synthesis)
 - [General Medical Image Segmentation CNN Framework](https://github.com/QingYunA/General-Medical-Image-Segmentation-CNN-Framework) (Partial Contributor)
 - [CNN lab For Department Of AI](https://github.com/Chandery/GloveCNNLabforAIGroup)
 
-Looking forward to receiving your stars!
+Looking forward to receiving your stars! ⭐️⭐️⭐️⭐️⭐️
+
+Continuously updating！<img src="https://imgs-chan-1329526870.cos.ap-beijing.myqcloud.com/Image%20216655818%20498x436.gif" align="center" width="60">
 
 ### Technical Stack & Tools
 <!-- <img align="right" width=30% src="https://imgs-chan-1329526870.cos.ap-beijing.myqcloud.com/Octocat%20Build%20(1).png"> -->
