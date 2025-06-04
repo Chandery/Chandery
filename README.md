@@ -5,8 +5,9 @@
 
 **Welcome to my page in github** 🎉🎊
 
-**I am Chandery** from China🇨🇳, currently pursuing my undergraduate studies in the Department of Computer Science at Beijing University of Science and Technology.
-I am a beginner engaged in research and study in the field of artificial intelligence🧐. My primary research interests include computer vision, multimedia, and **generative artificial intelligence**.
+**I am Chandery**, currently pursuing my undergraduate studies in the Department of Computer Science at Beijing University of Science and Technology.
+
+I am a beginner engaged in research and study in the field of artificial intelligence🧐. Primary research interests include computer vision, multimedia, and **generative artificial intelligence**.
 
 Hopping to publish and document my research trajectory on GitHub🎞️, as well as connect with like-minded individuals🎧.
 
